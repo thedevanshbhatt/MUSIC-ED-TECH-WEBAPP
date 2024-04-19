@@ -1,4 +1,3 @@
-# MUSIC-ED-TECH-WEBAPP
 ## Here's the Whole Application: [https://music-ed-tech.vercel.app/](https://music-ed-tech.vercel.app/)
 
 ## Getting Started
